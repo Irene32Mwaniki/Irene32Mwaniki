@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Irene Mwaniki
 =====================================================================================================================================
 
-Data Analyst | Python | Data Modelling 
+Data Scientist| Python | Researcher
 -------------------------------
 
-I am a data analyst with a strong passion for uncovering meaningful insights from data. I have developed foundational skills in tools such as Python, Excel, and SQL, and I am expanding my expertise in data visualization platforms like Tableau and Power BI. My curiosity for problem-solving drives me to explore datasets and identify trends that can inform better decision-making. What excites me most about data analysis is its potential to impact industries, from optimizing business operations to addressing societal challenges. Recently, I worked on Kaggle dataset challenge which deepened my understanding of data workflows and sparked my eagerness to tackle more complex challenges. I’m committed to continuous learning and growth in this field, and I look forward to opportunities where I can apply my skills, learn from experienced professionals, and contribute meaningfully to data-driven projects
+I am a data scientist with a strong passion for uncovering meaningful insights from data. I have developed foundational skills in tools such as Python, Excel, and SQL, and I am expanding my expertise in data visualization platforms like Tableau and Power BI. My curiosity for problem-solving drives me to explore datasets and identify trends that can inform better decision-making. What excites me most about data analysis is its potential to impact industries, from optimizing business operations to addressing societal challenges. Recently, I worked on Kaggle dataset challenge which deepened my understanding of data workflows and sparked my eagerness to tackle more complex challenges. I’m committed to continuous learning and growth in this field, and I look forward to opportunities where I can apply my skills, learn from experienced professionals, and contribute meaningfully to data-driven projects
 
-* 🌍  I'm based in Kenya
+* 🌍 Willing to relocate 
 * ✉️  You can contact me at [mwanikiirene95@gmail.com](mailto:mwanikiirene95@gmail.com)
 * 🧠  I'm learning Python Developer at Udemy (https://www.udemy.com/course/complete-python-developer-zero-to-mastery/ )
 
